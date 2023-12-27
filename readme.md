@@ -1,5 +1,5 @@
 # Portable Perceptron Network-based Fast Mode Decision for Video-based Point Cloud Compression
-This is the official repository of source codes and deployment methods for the paper "Portable Perceptron Network-based Fast Mode Decision for Video-based Point Cloud Compression". In order to reduce its meaning and express it uniformly, the following takes "PPNforV-PCC" as the root directory, for example, the location of "mpeg-pcc-tmc2-netTest" is "/mpeg-pcc-tmc2-netTest"
+This is the official repository of source codes and deployment methods for the paper ["Portable Perceptron Network-based Fast Mode Decision for Video-based Point Cloud Compression"](https://www.sciopen.com/article/10.26599/AIR.2023.9150022). In order to reduce its meaning and express it uniformly, the following takes "PPNforV-PCC" as the root directory, for example, the location of "mpeg-pcc-tmc2-netTest" is "/mpeg-pcc-tmc2-netTest"
 
 <b>If you have contacted TMC2 and HM, you can skip subsequent lengthy instructions and directly use the source under “/mpeg-pcc-tmc2-netTest/dependencies/HM-16.20+SCM-8.8/source” to change the source of original dependencies of TMC2 and check the methods described in our paper.  If you are not familiar with the package structure of TMC2, it is strongly recommended that you configure it as described below.</b>
 
